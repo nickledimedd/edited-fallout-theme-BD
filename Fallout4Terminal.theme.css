@@ -22,7 +22,7 @@
 .theme-dark,
 .theme-light {
   --rgb-highlight: 219, 146, 42; /* The main highlight color */
-  --rgb-background: 6, 0, 0; /* The main background color */
+  --rgb-background: 12, 0, 0; /* The main background color */
   --rgb-text: 219, 146, 42; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
